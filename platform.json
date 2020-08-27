@@ -64,8 +64,7 @@
         "framework-kendryte-standalone-sdk": {
             "type": "framework",
             "optional": true,
-            "owner": "platformio",
-            "version": "~0.5.6"
+            "version": "https://github.com/kendryte/kendryte-standalone-sdk.git#70f9fdf"
         },
         "framework-kendryte-freertos-sdk": {
             "type": "framework",
